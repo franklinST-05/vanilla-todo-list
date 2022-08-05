@@ -1,7 +1,7 @@
 # ToDoList
 simple annotation project
 
-<img src="./images/Tela.png" width="500">
+<img src="./images/Tela.png">
 
 ---
 ### Task

@@ -1,11 +1,9 @@
-# ToDo List
+# ToDoList
+simple annotation project
 
-## Este projeto foi interiramente criado como o Objetivo de aplicar novos conhecimentos em JavaScript 
+<img src="./images/Tela.png" width="500">
 
-<br/><br/> 
-
-# Demostracao
-## Tela
-![Tela](./images/Tela.png )
-## Alerta  De Remocao 
-![alert](./images/alert.png)
+---
+### Task
+- [x] Create Front-End (HTML)
+- [x] Save LocalStorage
